@@ -1,4 +1,4 @@
-please read this file before you start your clustering analysis
+******please read this file before you start your clustering analysis
 following R packages are needed: ComplexHeatmap,circlize,RColorBrewertidyverse
 make sure you have already prepared those files in the right format before you start runnung the R code:
 heatmap<- excel matrix with expression data as columns and patient ids as rows
